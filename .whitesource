@@ -36,7 +36,8 @@
       "enabled": true
     },
     "enableRenovate": true,
-    "branchPrefix": "foo/"
+    "branchPrefix": "foo/",
+    "dependencyDashboard": true
   },
    "imageSettings":{
        "imageTracing":{
