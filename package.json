@@ -2,6 +2,7 @@
   "dependencies":{
     "lodash": "4.0.0",
     "got": "14.4.7",
-    "foobarfoo": "1.0.0"
+    "foobarfoo": "1.0.0",
+    "asdasd": "1.2.3"
   }
 }
