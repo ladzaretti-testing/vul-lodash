@@ -1,5 +1,6 @@
 {
   "dependencies":{
+     "@types/tar": "7.0.87",
     "asdasd": "1.2.3"
   }
 }
