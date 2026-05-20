@@ -14,7 +14,7 @@
       },
       {
         "matchPackageNames": ["lodash"],
-        "enabled": false
+        "enabled": true
       }
     ]
   }
