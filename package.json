@@ -1,6 +1,6 @@
 {
   "dependencies":{
     "lodash": "4.0.0",
-    "got": "11.8.6" 
+    "got": "15.0.5" 
   }
 }
